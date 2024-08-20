@@ -7,7 +7,7 @@
         <Placeholder v-else-if="getRoute === 'placeholder'" @back="onBack" />
         <Colo v-else-if="getRoute === 'colo'" @back="onBack" />
       </Transition>
-      <div class="text-sm absolute bottom-16">©2022 ZH NETWORK LIMITED</div>
+      <div class="text-sm absolute bottom-16">@2024 OMAO OÜ</div>
     </div>
     <client-only>
       <Globe
@@ -29,11 +29,11 @@ import { Location } from '@/types/location';
 import { locationData } from '@/utils/locationData';
 
 useHead({
-  title: 'ZH NETWORK LIMITED',
+  title: 'OMAO OU',
   link: [
     {
       rel: 'icon',
-      href: 'https://dp2-9gqbw0qaf681fbec-1305978723.tcloudbaseapp.com/zhnet/logoonly-removebg-preview.png',
+      href: 'https://assets.zhnet.co.uk/img/OM-LOGO.png',
     },
   ],
   meta: [
@@ -44,19 +44,19 @@ useHead({
     },
     {
       property: 'og:description',
-      content: 'ZHNET (ZH NETWORK LIMITED, AS202888) Official Website.',
+      content: 'OMAO NETS (OMAO OÜ, AS59538) Official Website.',
     },
     {
       property: 'keywords',
-      content: 'ZH,ZHNET,ZH Network,ZH NETWORK LIMITED,AS202888,ZH Global Communications',
+      content: 'OMAO,FXM,FXM NETWORK,OMAO OÜ,AS59538,OMAO CONNECT',
     },
     {
       property: 'og:tittle',
-      content: 'ZH NETWORK LIMITED',
+      content: 'OMAO OÜ',
     },
     {
       property: 'og:url',
-      content: 'https://zhnet.co.uk',
+      content: 'https://omao.ee',
     },
     {
       property: 'twitter:card',
@@ -64,19 +64,19 @@ useHead({
     },
     {
       property: 'twitter:image',
-      content: 'https://dp2-9gqbw0qaf681fbec-1305978723.tcloudbaseapp.com/cnit-imgs/zhnetwork.png',
+      content: 'https://assets.zhnet.co.uk/img/OM-LOGO.png',
     },
     {
       property: 'twitter:site',
-      content: '@zh_fontana',
+      content: '@zh_internet',
     },
     {
       property: 'og:site_name',
-      content: 'ZH NETWORK LIMITED - AS202888',
+      content: 'OMAO OÜ - AS59538',
     },
     {
       property: 'og:image',
-      content: 'https://dp2-9gqbw0qaf681fbec-1305978723.tcloudbaseapp.com/cnit-imgs/zhnetwork.png',
+      content: 'https://assets.zhnet.co.uk/img/OM-LOGO.png',
     },
   ],
 });
