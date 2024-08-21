@@ -6,12 +6,12 @@
     </div>
     <div class="text-2xl mt-20">
       <font color="orange"><h1 align="center">Contact Us</h1></font>
-      <div><h1 align="center">If you want to order or simply contact us, use our email below or contact Telegram <a href="//t.me/ash_59538" target="_blank">@ash_59538</a></h1></div>
+      <div><h1 align="center">If you want to order or simply contact us, use our email below or contact Telegram Community <a href="//t.me/fxm_community" target="_blank">@FXM_Community</a></h1></div>
       <div><h1 align="center">We speak English and Chinese.</h1></div><br>
       <div class="flex-33">
             <div class="text-center">
               <header class="box-header">
-                <p class="text-alternate-secondary"><a class="button button-wide button-gradient" href="mailto:noc@zhnet.co.uk" one-link-mark="yes"><i class="fas fa-envelope fa-left"></i>noc@zhnet.co.uk</a></p>
+                <p class="text-alternate-secondary"><a class="button button-wide button-gradient" href="mailto:noc@shinobu.is" one-link-mark="yes"><i class="fas fa-envelope fa-left"></i>noc@shinobu.is</a></p>
               </header>
             </div>
           </div>
