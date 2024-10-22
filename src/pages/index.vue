@@ -44,11 +44,11 @@ useHead({
     },
     {
       property: 'og:description',
-      content: 'OMAO NETS (OMAO OÜ, AS59538) Official Website.',
+      content: 'OMAO NETS (OMAO OÜ, OTL) Official Website.',
     },
     {
       property: 'keywords',
-      content: 'OMAO,FXM,FXM NETWORK,OMAO OÜ,AS59538,OMAO CONNECT',
+      content: 'OMAO,FXM NETWORK,OMAO OÜ,OTL,OMAO CONNECT',
     },
     {
       property: 'og:tittle',
@@ -72,7 +72,7 @@ useHead({
     },
     {
       property: 'og:site_name',
-      content: 'OMAO OÜ - AS59538',
+      content: 'OMAO OÜ - OTL',
     },
     {
       property: 'og:image',
