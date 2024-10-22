@@ -29,7 +29,7 @@ import { Location } from '@/types/location';
 import { locationData } from '@/utils/locationData';
 
 useHead({
-  title: 'OMAO OU',
+  title: 'OMAO OÜ',
   link: [
     {
       rel: 'icon',
