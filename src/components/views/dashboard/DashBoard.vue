@@ -4,7 +4,7 @@
     <div class="lg:text-7xl <lg:text-5xl leading-normal mt-6"><font color="blue">Delivering</font> Internet<font color="yellow"> Traffic</font></div>
     <div class="text-2xl mt-20 lg:w-[50%] <lg:w-[100%]">
       <div class="leading-relaxed">
-        OMAO TELECOMMUNICATIONS LAN (OTL) operates high-performance
+        <span class="font-extrabold">OMAO TELECOMMUNICATIONS LAN (OTL)</span> operates high-performance
         <span class="font-extrabold">Network Carrier Services</span>, provides high-bandwidth
         <span class="font-extrabold">Home Wireless</span>, and provide performance
         <span class="font-extrabold">CDN Services</span> from our platforms.
