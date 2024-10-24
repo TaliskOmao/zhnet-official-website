@@ -6,8 +6,8 @@
       <div class="leading-relaxed">
         OMAO TELECOMMUNICATIONS LAN (OTL) operates high-performance
         <span class="font-extrabold">Network Carrier Services</span>, provides high-bandwidth
-        <span class="font-extrabold">Home Wireless</span>, and selling brand new
-        <span class="font-extrabold">PC and Routers</span> from our shops.
+        <span class="font-extrabold">Home Wireless</span>, and provide performance
+        <span class="font-extrabold">CDN Services</span> from our platforms.
       </div>
     </div>
     <div class="text-2xl mt-20">
